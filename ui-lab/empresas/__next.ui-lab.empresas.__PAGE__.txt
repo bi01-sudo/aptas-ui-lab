@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[87823,["/aptas-ui-lab/_next/static/chunks/3fntmmi971322.js","/aptas-ui-lab/_next/static/chunks/1zoavr5mhdv9m.js","/aptas-ui-lab/_next/static/chunks/3qrsa2v7xxvrv.js","/aptas-ui-lab/_next/static/chunks/0pefijadk3bta.js"],"ListaAtivos"]
+3:I[97367,["/aptas-ui-lab/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/aptas-ui-lab/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/aptas-ui-lab/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[27201,["/aptas-ui-lab/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+c:I[39756,["/aptas-ui-lab/_next/static/chunks/3fntmmi971322.js"],"default"]
+d:I[37457,["/aptas-ui-lab/_next/static/chunks/3fntmmi971322.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"SsGG3L3ZoOfm08AZ8c-0j","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"fixo":"Ação"}],[["$","script","script-0",{"src":"/aptas-ui-lab/_next/static/chunks/0pefijadk3bta.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0e1d3a"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aptas Invest — Design Lab"}],["$","meta","1",{"name":"description","content":"Protótipo de refatoração de UX/UI e arquitetura de informação do Aptas Invest. Dados fictícios."}],["$","meta","2",{"name":"application-name","content":"Aptas Invest"}],["$","link","3",{"rel":"icon","href":"/icon-192.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$La","5",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
