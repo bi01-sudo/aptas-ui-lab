@@ -1,0 +1,4 @@
+# Protótipo temporário, compartilhado por link direto.
+# Não deve ser indexado por buscadores.
+User-agent: *
+Disallow: /
