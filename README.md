@@ -1,7 +1,7 @@
 # Aptas Invest — Design Lab (site publicado, temporário)
 
 Este repositório contém **apenas o site já montado** do protótipo de refatoração
-de UX/UI do Aptas Invest — nenhum código-fonte.
+de UX/UI do Aptas Invest. Nenhum código-fonte.
 
 🔗 **https://bi01-sudo.github.io/aptas-ui-lab/ui-lab/**
 
