@@ -1,4 +1,4 @@
-:HL["/aptas-ui-lab/_next/static/chunks/3egocoyz02_x5.css","style"]
+:HL["/aptas-ui-lab/_next/static/chunks/0s2ej4r9wv9hw.css","style"]
 :HL["/aptas-ui-lab/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/aptas-ui-lab/logo-aptas-invest-white.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"ui-lab","param":null,"prefetchHints":4128,"slots":{"children":{"name":"bdrs","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"qO3w6LX_s3An5-CHAndVS"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"ui-lab","param":null,"prefetchHints":4128,"slots":{"children":{"name":"bdrs","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"m1GOFOuwT2Rv0Zzyjs6Io"}
